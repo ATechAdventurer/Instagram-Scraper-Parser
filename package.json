@@ -1,0 +1,24 @@
+{
+  "name": "Instagram-Scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATechAdventurer/Instagram-Scraper.git"
+  },
+  "keywords": [],
+  "author": "Cameron Steele (ATechAdventurer)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATechAdventurer/Instagram-Scraper/issues"
+  },
+  "homepage": "https://github.com/ATechAdventurer/Instagram-Scraper#readme",
+  "dependencies": {
+    "json-2-csv": "^3.7.3",
+    "puppeteer": "^4.0.0"
+  }
+}
