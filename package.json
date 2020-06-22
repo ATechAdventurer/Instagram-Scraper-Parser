@@ -21,5 +21,6 @@
   "dependencies": {
     "json-2-csv": "^3.7.3",
   },
-  "bin": { "app": "bin/app.js"}
+  "bin": { "app": "bin/app.js"},
+  "preferGlobal": true
 }

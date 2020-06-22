@@ -1,9 +1,7 @@
+#!/usr/bin/env node
 const fs = require('fs');
 
 const jsonCsv = require('json-2-csv');
-//console.log(Object.keys(ogData.flat()));
-//console.log(Object.keys(ogData))
-
 if(process.argv[2]){
     const hashtagFile = process.argv[2];
     const ogData = require(hashtagFile);
@@ -36,6 +34,3 @@ if(process.argv[2]){
 }else{
     console.warn("No file selected put the file path after the call")
 }
-
-
-//fs.writeFileSync("climatechange.csv", )
