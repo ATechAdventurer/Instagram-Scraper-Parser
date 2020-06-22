@@ -22,7 +22,7 @@
     "json-2-csv": "^3.7.3"
   },
   "bin": {
-    "app": "bin/app.js"
+    "isparser": "bin/app.js"
   },
   "preferGlobal": true
 }
