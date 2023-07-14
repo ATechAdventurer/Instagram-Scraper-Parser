@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/ATechAdventurer/Instagram-Scraper#readme",
   "dependencies": {
-    "json-2-csv": "^3.7.3"
+    "json-2-csv": "^3.20.0"
   },
   "bin": {
     "isparser": "bin/app.js"
